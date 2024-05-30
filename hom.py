@@ -14,6 +14,7 @@ for i in range(len(par_elm)):
 
 sum = 0
 for i in range(len(not_par)):
+
     sum += not_par[i]
 
 print(f"сума елементів {par_elm} = {sum}")
